@@ -8,15 +8,9 @@ SO THAT my company can compete with other e-commerce companies
 Watch the video to see app in motion: https://drive.google.com/file/d/1_ETGcALIudRXRKxLGIoVZroWB4J96YRe/view
 <<<<<<< HEAD
 Screenshot: 
-![Screenshot 1]] (/assets/images/Screen Shot 2022-02-28 at 1.04.27 AM.png?raw=true)
-![Screenshot 2] (/assets/images/Screen Shot 2022-02-28 at 1.04.32 AM.png?raw=true)
-*** 
+![Screenshot 1]] (/assets/images/Screen Shot 2022-02-28 at 1.04.27 AM.png)
+![Screenshot 2] (/assets/images/Screen Shot 2022-02-28 at 1.04.32 AM.png)
 =======
-Screenshot:
-Screen Shot 2022-02-28 at 1.04.27 AM.png
-Screen Shot 2022-02-28 at 1.04.32 AM.png
-***
->>>>>>> f899eee3e2523d0c912b1f55379470f8d6aae086
 
 ## Needed Tech
 * Node.js
