@@ -8,8 +8,8 @@ SO THAT my company can compete with other e-commerce companies
 Watch the video to see app in motion: https://drive.google.com/file/d/1_ETGcALIudRXRKxLGIoVZroWB4J96YRe/view
 <<<<<<< HEAD
 Screenshot: 
-![alt text] (/assets/images/Screen Shot 2022-02-28 at 1.04.27 AM.png?raw=true)
-![alt text] (/assets/images/Screen Shot 2022-02-28 at 1.04.32 AM.png?raw=true)
+![Screenshot 1]] (/assets/images/Screen Shot 2022-02-28 at 1.04.27 AM.png?raw=true)
+![Screenshot 2] (/assets/images/Screen Shot 2022-02-28 at 1.04.32 AM.png?raw=true)
 *** 
 =======
 Screenshot:
